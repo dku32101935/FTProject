@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953007289406",
+    "firebase_url": "https://ftproject-1666c.firebaseio.com",
+    "project_id": "ftproject-1666c",
+    "storage_bucket": "ftproject-1666c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953007289406:android:7e359aad8e44d2d5584d6f",
+        "android_client_info": {
+          "package_name": "com.example.ftproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953007289406-facalsi0iu61igckdhl4qle7hmvneqf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0jjzTWiAzQ2zxrFPOrgix7nxlpmc0JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953007289406-facalsi0iu61igckdhl4qle7hmvneqf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

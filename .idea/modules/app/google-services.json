@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982822592325",
+    "firebase_url": "https://ftproject-f68fa.firebaseio.com",
+    "project_id": "ftproject-f68fa",
+    "storage_bucket": "ftproject-f68fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982822592325:android:c27b4571ffd129cb34282c",
+        "android_client_info": {
+          "package_name": "com.example.ftproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982822592325-q49aql89pgdqb71cgq7e91nb9qr5lo7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ftproject",
+            "certificate_hash": "65197d5912f1146009c1f1e9c222a1612e3a6192"
+          }
+        },
+        {
+          "client_id": "982822592325-jp7f5a1i7o3t4k9pcujc8ar1datst4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADnat-dumqkHDU37_0pGS8Re3N5NlyK6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982822592325-jp7f5a1i7o3t4k9pcujc8ar1datst4bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
